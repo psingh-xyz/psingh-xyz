@@ -1,7 +1,7 @@
 # Hi there! I'm Priyanka Singh 👋🚀
 
 ## 🌟 About Me
-Tech enthusiast with a passion for transforming complex problems into elegant solutions! I'm a Master's student in **Artificial Intelligence and Data Analytics** bridging the worlds of computer science and innovation. 🧠💡
+Tech enthusiast with a passion for transforming complex problems into elegant solutions! I'm a Masters in **Artificial Intelligence and Data Analytics** bridging the worlds of computer science and innovation. 🧠💡
 
 ## 💻 Technical Superpowers
 - **Languages**: Python 🐍 | SQL | LaTeX | R
